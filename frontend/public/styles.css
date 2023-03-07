@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(171, 248, 248);
+}
+.header {
+    margin-top: 20px;
+    width: 60%;
+    position: relative;
+    left: 20%;
+}
+
+.header h1{
+    font-family: 'Rubik Moonrocks', cursive; 
+    color: aqua;
+    text-align: center;
+    font-size: 5rem;
+    line-height: 1.5;  
+}
+
+.head-list {
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    border-radius: 20px;
+    background-color: aqua;
+}
+
+.head-list h3 {
+    padding: 10px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.head-list p {
+    padding: 1px 0 1px 15px;
+    font-family: 'Mynerve', cursive;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.rubric-input {
+    margin-top: 5px;
+    width: 250px;
+}
+.rubric-info {
+    width: 250px;
+    text-align: left;
+    margin: 5px 10px 5px 0;
+}
+
+.task-input {
+    margin-top: 5px;
+    width: 260px;
+}
+
+.prio-input {
+    margin-top: 5px;;
+}
+
+.priority-select {
+    margin-top: 6px;
+    margin-left: 14px;
+    width: 70px;
+}
+
+.addicon {
+    font-size: x-small;
+}
